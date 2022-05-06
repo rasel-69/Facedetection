@@ -1,0 +1,10 @@
+.Style-video{
+    display: none;
+}
+h1{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(118, 189, 4);
+}
