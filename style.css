@@ -3,8 +3,11 @@
 }
 h1{
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 40px;
+    margin-bottom: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: rgb(118, 189, 4);
+}
+.canva-div{
+    text-align: center;
 }
